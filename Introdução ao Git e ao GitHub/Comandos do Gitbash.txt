@@ -9,3 +9,4 @@ git add<file> - adicionar uma modificação especifica para Staged
 git add* - adicionar todas as modificações para Staged
 git commit -m "mensagem sobre o que fez" - salvar as mudanças
 git status - mostra o status de todo o diretorio
+git push origin main - empurra o repositorio local no github
