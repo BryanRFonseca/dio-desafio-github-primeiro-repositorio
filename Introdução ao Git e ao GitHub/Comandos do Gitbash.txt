@@ -1,0 +1,11 @@
+cd - mover entre diretorios
+cd .. - voltar um diretorio
+ls - listar todos os arquivos não ocultos
+ls -a - listar arquivos ocultos
+mkdir - criar um diretorio
+rm -rf - apagar um diretorio
+git init - iniciar o git em um diretorio
+git add<file> - adicionar uma modificação especifica para Staged
+git add* - adicionar todas as modificações para Staged
+git commit -m "mensagem sobre o que fez" - salvar as mudanças
+git status - mostra o status de todo o diretorio
